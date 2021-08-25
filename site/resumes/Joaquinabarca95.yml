@@ -1,0 +1,47 @@
+--- 
+basic_info: 
+  first_name: Joaquin
+  last_name: Abarca
+  email: "joaquinabarca@live.com jabarcai@udd.cl"
+  github: Joaquinabarca95
+  linkedin: "https://www.linkedin.com/in/joaquin-abarca-ihmaidan-0046501b3"
+  interests: 
+    - 
+      item: Gaming
+    - 
+      item: Music
+    - 
+      item: Football
+  languages: 
+    - 
+      idiom: Spanish
+      level: Native
+    - 
+      idiom: English
+      level: Advanced
+
+
+education: 
+  - 
+    degree: Phisiotherapist
+    time: "2014 - 2021"
+    university: "Universidad del Desarrollo"
+experiences: 
+  - 
+    company: "UPC CLINICA VESPUCIO"
+    role: "Internal in practice"
+    time: 2021
+  - 
+    company: "GYM CLINICA VESPUCIO"
+    role: "Internal in practice"
+    time: 2021
+  - 
+    company: COANIL
+    role: "Internal in practice"
+    time: 2019
+  - 
+    company: KINEX
+    role: "Internal in practice"
+    time: 2019
+skin: blue
+template: online-cv
